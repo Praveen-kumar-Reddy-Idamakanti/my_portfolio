@@ -14,35 +14,47 @@ import TerminalCard from './components/TerminalCard';
 
 const timelineEvents: TimelineEvent[] = [
   {
-    year: "2023",
-    title: "Started a New Project",
-    subtitle: "Side Hustle",
-    description: "Began working on a new and exciting project that solves a real-world problem.",
+    year: "Jun 2025 – Sep 2025",
+    title: "SDE Intern at BlueStock Fintech",
+    subtitle: "Full-stack & Machine Learning",
+    description: "Developed IPO Web App & REST APIs serving 1000+ users. Built ML-based financial insights engine analyzing 100+ companies with predictive models and visualizations."
   },
   {
-    year: "2022",
-    title: "Mastered a New Skill",
-    subtitle: "React & TypeScript",
-    description: "Deepened my knowledge of front-end development by mastering React and TypeScript.",
+    year: "Oct 2022 – Present",
+    title: "B.Tech in Computer Science Engineering",
+    subtitle: "MGR University, Chennai",
+    description: "Pursuing B.Tech with GPA 8.2. Focused on Full-stack development, Cryptography, and Cybersecurity."
   },
   {
-    year: "2021",
-    title: "Contributed to Open Source",
-    subtitle: "Framer Motion",
-    description: "Made my first significant contribution to a popular open-source library.",
+    year: "Jan 2024 – Mar 2024",
+    title: "Certified Ethical Hacking Diploma",
+    subtitle: "ASD Cybernetics (Virtual)",
+    description: "Gained hands-on experience in ethical hacking, penetration testing, and cybersecurity best practices."
   },
   {
-    year: "2020",
-    title: "Graduated University",
-    subtitle: "Computer Science",
-    description: "Completed my degree in Computer Science with a focus on Human-Computer Interaction.",
+    year: "2023 – 2025",
+    title: "Social Privacy Hub",
+    subtitle: "React, Node.js, Express, MongoDB",
+    description: "Built AI-powered privacy platform managing 3+ social platforms for 500+ users. Won Special Mention at VIT Hackathon."
   },
   {
-    year: "2019",
-    title: "Graduated University",
-    subtitle: "Computer Science",
-    description: "Completed my degree in Computer Science with a focus on Human-Computer Interaction.",
+    year: "2023 – 2025",
+    title: "3FA Password Manager",
+    subtitle: "React, Node.js, AES, TypeScript",
+    description: "Developed a 3-factor authentication system with AES-256 encryption. Achieved 100% pass rate in internal security tests."
   },
+  {
+    year: "2022 – 2023",
+    title: "Cybersecurity Awareness Tool",
+    subtitle: "Python, Flask, HTML/CSS",
+    description: "Simulated phishing, cookie hijacking, and geolocation attacks for 200+ users, educating them about online safety."
+  },
+  {
+    year: "2019 – 2022",
+    title: "Secondary & Higher Education",
+    subtitle: "Narayana Junior College & Kerala High School",
+    description: "Completed MPC (Higher Secondary) with 91% and SSC with 100% marks."
+  }
 ];
 
 
