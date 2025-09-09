@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+@font-face {
+  font-family: 'StreetDrips';
+  src: url('../street_drips/Street Drips.otf') format('opentype'),
+       url('../street_drips/Street Drips Extrude.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
